@@ -1,0 +1,22 @@
+{
+  "descriptions": [
+    {
+      "title": "Star Wars",
+      "description": "The Star Wars franchise involves multiple live-action and animated films.The film series started with a trilogy set in medias res which was later expanded to a trilogy of trilogies,known as the Skywalker Saga.The 1977 self titled film, later subtitled Episode IV – A New Hope, was followed by the sequels The Empire Strikes Back (1980) and Return of the Jedi (1983), respectively subtitled onscreen as Episode V and Episode VI; these films form the original trilogy. Years later, the prequel trilogy was released, consisting of Star Wars: Episode I – The Phantom Menace (1999), Episode II – Attack of the Clones (2002), and Episode III – Revenge of the Sith (2005). After creator George Lucas sold the Star Wars franchise to Disney in 2012, a sequel trilogy consisting of Episodes VII through IX was released, consisting of Star Wars: The Force Awakens (2015), The Last Jedi (2017), and The Rise of Skywalker (2019)."
+    },
+    {
+      "title":"Enjoy the Planet Information",
+      "description":"The Planets and their information as per the franchise in the Star Wars Universe."
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
